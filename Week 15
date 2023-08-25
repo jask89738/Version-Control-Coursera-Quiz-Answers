@@ -1,0 +1,168 @@
+End-of-course graded assessment Quiz Answers
+August 21, 2023 By Niyander
+In this article i am gone to share Coursera Course: Version Control Week 4 |  End-of-course graded assessment Quiz Answers with you..
+
+Version Control Coursera Quiz Answers
+
+Enroll Link: Version Control
+
+Visit this link: Module Quiz: Working with Git Quiz Answers
+
+ 
+
+End-of-course graded assessment Quiz Answers
+Question 1)
+Which of the following is a Distributed Version Control System?
+
+Git
+Subversion
+Concurrent Versions System
+Question 2)
+In Bash, which of the following commands will change the working directory?
+
+rm
+mkdir
+cd
+Question 3)
+In Bash, which of the following commands will create a file?
+
+pwd
+touch
+mv
+Question 4)
+Which of the following can be used to find all unique text lines in a file?
+
+Uniq
+Grep
+Pipe
+Question 5)
+Which Git command is used to download the latest changes to a local repository?
+
+git pull
+git push
+git clone
+Question 6)
+Which Git command is used to create a commit from the changes added to your staging area?
+
+git commit
+git add
+git restore
+Question 7)
+Which of the following Git commands can be used to create a local branch named test? Select all that apply.
+
+git branch test
+git checkout -b test
+git push origin test
+Question 8)
+Which of the following Git commands can be used to check local changes? Select all that apply.
+
+git diff
+git status
+git remote -v
+Question 9)
+In the following differential output, which line was deleted?
+
+Red
+Blue
+-Green
++Yellow
+
+Red
+Blue
+Green
+Yellow
+Question 10)
+When cloning a forked repository, what does the origin refer to?
+
+The original repository
+The forked repository
+The local repository
+ 
+
+Question 11)
+Which of the following is a Centralised Version Control System?
+
+Subversion
+Git
+Mercurial
+Question 12)
+In Bash, which of the following commands will list the contents of a directory?
+
+cd
+mkdir
+ls
+Question 13)
+In Bash, which of the following commands will move a file?
+
+pwd
+mv
+touch
+Question 14)
+In Bash, which of the following is used to send the output of one command as the input to another command?
+
+Pipe
+Grep
+Uniq
+Question 15)
+Which Git command is used to move local changes to the Git staging area?
+
+git add
+git commit
+git restore
+Question 16)
+True or false. When creating a new branch using the git branch command, that branch is immediately available to other developers.
+
+true
+false
+Question 17)
+In the following differential output, which line was added?
+
+@@ @@
+Red
++Blue
+-Green
+-Yellow
+Red
+Blue
+Green
+Yellow
+Question 18)
+True or false. When submitting changes from your forked repository on Github to the original repository, you submit a pull request.
+
+true
+false
+Question 19)
+In Bash, which of the following commands will print the current working directory?
+
+touch
+pwd
+mv
+Question 20)
+True or false. Changes must be added to the Git staging area before they are committed.
+
+true
+false
+Question 21)
+Which Git command is used to switch the current branch to the test branch?
+
+git branch test
+git checkout test
+git push origin test
+Question 22)
+When copying a repository on Github to your own repository on Github, what is this action commonly known as?
+
+Merging
+Forking
+Cloning
+Question 23)
+Which of the following can be used to search for text in a file?
+
+Grep
+Pipe
+Uniq
+Question 24)
+Which Git command is used to check changes in a file line by line?
+
+git status
+git diff
+git remote -v
